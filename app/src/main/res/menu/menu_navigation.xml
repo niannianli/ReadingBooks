@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1" android:checkableBehavior="single">
+        <item
+            android:orderInCategory="0"
+            android:id="@+id/category1"
+            android:title="BookCategory #1" />
+        <item
+            android:orderInCategory="0"
+            android:id="@+id/category2"
+            android:title="BookCategory #2" />
+    </group>
+
+    <group android:id="@+id/group3" android:checkableBehavior="single">
+        <item
+            android:orderInCategory="2"
+            android:id="@+id/search_book"
+            android:title="Search Book" />
+    </group>
+
+    <group android:id="@+id/group4" android:checkableBehavior="single">
+        <item
+            android:orderInCategory="3"
+            android:id="@+id/camera"
+            android:title="Take a Photo" />
+        <item
+            android:orderInCategory="3"
+            android:id="@+id/location"
+            android:title="Get Location" />
+    </group>
+
+    <group android:id="@+id/group5" android:checkableBehavior="single">
+        <item
+            android:orderInCategory="4"
+            android:id="@+id/test_activity"
+            android:title="Go to TestActivity" />
+        <item
+            android:orderInCategory="4"
+            android:id="@+id/test_activity_1"
+            android:title="Go to TestActivity1" />
+        <item
+            android:orderInCategory="4"
+            android:id="@+id/test_activity_3"
+            android:title="Go to TestActivity3" />
+    </group>
+
+</menu>

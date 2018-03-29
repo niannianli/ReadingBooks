@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ReadingBooks</string>
+    <string name="new_fragment">FragmentNew</string>
+    <string name="old_fragment">FragmentOld</string>
+    <string name="second_activity">SecondActivity</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="dialogfragment">Dialog Fragment</string>
+    <string name="alertdialogfragment">Alert Dialog Fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="save_fragment_orientation">Saving Fragment State during Orientation Change</string>
+    <string name="take_picture">Take picture</string>
+</resources>
